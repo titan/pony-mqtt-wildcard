@@ -1,0 +1,12 @@
+{
+  "packages": ["mqtt-wildcard"],
+  "deps": [],
+  "info": {
+    "description": "",
+    "homepage": "http://github.com/titan/pony-mqtt-wildcard",
+    "license": "",
+    "documentation_url": "",
+    "version": "0.1.0",
+    "name": "pony-mqtt-wildcard"
+  }
+}
